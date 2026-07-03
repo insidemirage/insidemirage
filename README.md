@@ -7,7 +7,7 @@
 Looking for work ^^   
 Most of my repo is private :(
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)   
 ✈️ Telegram: [@mrage](https://t.me/mrage)   
 📧 mragekit@gmail.com
 <!--
