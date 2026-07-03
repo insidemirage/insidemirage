@@ -7,7 +7,7 @@
 Looking for work ^^   
 Most of my repo is private :(
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insidemirage&show_icons=true&theme=radical)   
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
 ✈️ Telegram: [@mrage](https://t.me/mrage)   
 📧 mragekit@gmail.com
 <!--
